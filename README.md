@@ -7,11 +7,11 @@
 
 
 
-<!-- Put this near the top of your README -->
-<img src="assets/animated-blob.svg" alt="Morphing gradient blob animation" />
+<!-- Works with relative path -->
+<img src="assets/neon-glitch.svg" alt="Neon Glitch Tareq Jamil Sarkar" />
 
+<img src="assets/animated-blob.svg" alt="Animated Blob Tareq Jamil Sarkar" />
 
-<img src="assets/neon-glitch.svg" alt="Neon glitch animated header" />
 
 
 
