@@ -7,6 +7,7 @@
 
 
 
+![Puzzle reveal — TAREQ JAMIL SARKAR](puzzle-name.svg)
 
 
 
