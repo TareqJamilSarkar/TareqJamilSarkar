@@ -4,7 +4,7 @@
     <linearGradient id="neon" x1="0" x2="1">
       <stop offset="0%" stop-color="#00f0ff"/>
       <stop offset="50%" stop-color="#a64bff"/>
-      <stop offset="100%" stop-color="#ff3d81"/>
+      <stop offset="100%" stop-color="#ff3d81"/> 
     </linearGradient>
 
     <filter id="glow">
