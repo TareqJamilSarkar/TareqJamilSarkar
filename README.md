@@ -7,10 +7,6 @@
 
 
 
-<!-- Works with relative path -->
-<img src="assets/neon-glitch.svg" alt="Neon Glitch Tareq Jamil Sarkar" />
-
-<img src="assets/animated-blob.svg" alt="Animated Blob Tareq Jamil Sarkar" />
 
 
 
